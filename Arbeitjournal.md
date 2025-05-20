@@ -1,4 +1,4 @@
-# Tag 1: 13.05.2025
+# Tag 1 | 13.05.2025
 ### Ziel:
 Einfinden ins Modul. Vorbereiten auf Tag 2 mit allen notwendigen Dokumenten sowie das festlegen des Projektes.
 ### Erreicht:
@@ -9,5 +9,18 @@ Am Anfang ist es immer schwierig ein gutes Projekt zu finden. Wenn man dann eine
 ChatGPT
 ### Gelernt:
 Noch nichts.
+
+---
+# Tag 2 | 20.05.2025
+### Ziel:
+Anfangen mit der Projekt bzw. der Cloud-Umgebung.
+### Erreicht:
+AWS Umgebung konfiguriert, Web-Server installiert mit Nginx, API für die Benzinpreise geholt.
+### Probleme:
+Ging alles flott von der Hand.
+### Ressourcen:
+Tankerkönig.de, AWS, ChatGPT
+### Gelernt:
+Wieder einbisschen vertieft wie AWS funktioniert.
 
 ---

@@ -1,0 +1,1 @@
+ssh ubuntu@52.204.171.169 -i "C:\Users\yassin.sobhy\OneDrive - voicelan.ch\Dokumente\Git Repos\M300\M300 Key.pem"
