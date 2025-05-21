@@ -1,3 +1,4 @@
+```yaml
 #cloud-config
 package_update: true
 package_upgrade: true
@@ -16,3 +17,4 @@ runcmd:
   - echo "Init-Script wurde ausgeführt am $(date)" > /var/log/init-setup/info.log
 
 final_message: "EC2-Instanz ist vollständig vorbereitet und auf dem aktuellen Stand."
+```
