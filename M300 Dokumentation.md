@@ -161,7 +161,7 @@ pm2 konfigurieren dass das Backend im Hintergrund läuft:
 pm2 start index.js --name benzin-backend
 ```
 
-Zum  check:
+Zum  Check:
 ```bash
 pm2 list
 ```
@@ -180,7 +180,7 @@ Damit das Backend auch immer automatisch nach einem Neustart des Servers wieder 
 pm2 startup
 ```
 
-Das gibt mir folgenden Befehl aus, welcher ich auch direkt kopiren und 1:1 ausführen muss:
+Das gibt mir folgenden Befehl aus, welcher ich auch direkt kopieren und 1:1 ausführen muss:
 ```bash
 sudo env PATH=$PATH:/usr/bin /usr/lib/node_modules/pm2/bin/pm2 startup systemd -u ubuntu --hp /home/ubuntu
 ```
