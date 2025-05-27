@@ -35,4 +35,5 @@ Lief alles ohne Probleme.
 Certbot, Duckdns.org, ChatGPT
 ### Gelernt:
 Wie einfach es ist ein HTTPS-Zertifikat zu bekommen.
+
 ---
