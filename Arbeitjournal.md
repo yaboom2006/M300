@@ -24,3 +24,15 @@ Tankerkönig.de, AWS, ChatGPT
 Wieder einbisschen vertieft wie AWS funktioniert.
 
 ---
+# Tag 3 | 27.05.2025
+### Ziel:
+Am Webserver weiterarbeiten und das Backend abschliessen.
+### Erreicht:
+Backend abgeschlossensammt https Zertifikat.
+### Probleme:
+Lief alles ohne Probleme.
+### Ressourcen:
+Certbot, Duckdns.org, ChatGPT
+### Gelernt:
+Wie einfach es ist ein HTTPS-Zertifikat zu bekommen.
+---
